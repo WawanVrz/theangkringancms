@@ -1,0 +1,18 @@
+[18-Jul-2016 02:56:39 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'The GD Library is not installed.' in /home/warisan/public_html/public/assets/plugins/filemanager/include/php_image_magician.php:215
+Stack trace:
+#0 /home/warisan/public_html/public/assets/plugins/filemanager/include/utils.php(217): imageLib->__construct('../../../media/...')
+#1 /home/warisan/public_html/public/assets/plugins/filemanager/upload.php(93): create_img('../../../media/...', '../../../media/...', 122, 91)
+#2 {main}
+  thrown in /home/warisan/public_html/public/assets/plugins/filemanager/include/php_image_magician.php on line 215
+[18-Jul-2016 04:21:03 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'The GD Library is not installed.' in /home/warisan/public_html/public/assets/plugins/filemanager/include/php_image_magician.php:215
+Stack trace:
+#0 /home/warisan/public_html/public/assets/plugins/filemanager/include/utils.php(217): imageLib->__construct('../../../media/...')
+#1 /home/warisan/public_html/public/assets/plugins/filemanager/upload.php(93): create_img('../../../media/...', '../../../media/...', 122, 91)
+#2 {main}
+  thrown in /home/warisan/public_html/public/assets/plugins/filemanager/include/php_image_magician.php on line 215
+[04-Nov-2016 04:52:21 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'The GD Library is not installed.' in /home/warisan/public_html/public/assets/plugins/filemanager/include/php_image_magician.php:215
+Stack trace:
+#0 /home/warisan/public_html/public/assets/plugins/filemanager/include/utils.php(217): imageLib->__construct('../../../media/...')
+#1 /home/warisan/public_html/public/assets/plugins/filemanager/upload.php(93): create_img('../../../media/...', '../../../media/...', 122, 91)
+#2 {main}
+  thrown in /home/warisan/public_html/public/assets/plugins/filemanager/include/php_image_magician.php on line 215
